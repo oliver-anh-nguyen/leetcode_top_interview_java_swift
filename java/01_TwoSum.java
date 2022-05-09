@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/two-sum/
 public int[] twoSum(int[] nums, int target) {
     HashMap<Integer, Integer> arr = new HashMap<>();
     int[] result = new int[2];
